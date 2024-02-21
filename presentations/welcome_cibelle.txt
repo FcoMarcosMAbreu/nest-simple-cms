@@ -1,0 +1,11 @@
+Olá, meu nome é Cibelle! 👋
+
+Minha trajetória começou com a conclusão do curso técnico em Administração, onde percebi que o meu verdadeiro propósito estava voltado para a área de computação.
+
+Atualmente, estou no 5º período do curso de Análise e Desenvolvimento de Sistemas, onde tenho a oportunidade de me aprofundar em conceitos de programação, desenvolvimento de software e redes. 
+
+Sobre bibliotecas e frameworks, tenho interesse em web, usando JavaScript/Typescript, React ou Angular e Node.js e RPA/Análise de dados com Python.
+
+Acredito que o aprendizado contínuo é essencial para acompanhar as constantes mudanças e inovações no mundo da tecnologia.
+
+Estou sempre aberta a novas oportunidades e desafios, e adoraria fazer parte de projetos empolgantes que me permitam aplicar minhas habilidades e conhecimentos para impactar positivamente a vida das pessoas.
