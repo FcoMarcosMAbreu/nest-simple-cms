@@ -1,0 +1,7 @@
+# Marcos Abreu
+
+## "Welcome to the jungle!" 🎶
+
+Assim é a minha mente.
+
+Prefiro usar Typescript nos meus projetos e publicar em CDN. Vem comigo que é só sucesso! (Ou não...)
